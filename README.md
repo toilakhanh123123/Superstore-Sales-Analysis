@@ -1,4 +1,5 @@
 # 📊 Superstore Sales Analysis
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/88b87efc-3cc7-4d41-810b-0bd0b08330fc" />
 
 ## 1. Project Overview
 
@@ -62,7 +63,7 @@ superstore-sales-analysis/
 │       └── superstore_cleaned.csv
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
+│   ├── data_cleaning.ipynb
 │   ├── 02_sales_performance.ipynb
 │   ├── 03_product_analysis.ipynb
 │   ├── 04_regional_analysis.ipynb
@@ -191,8 +192,8 @@ Based on the analysis, the following actions are recommended:
 ![Dashboard Preview](dashboard/dashboard_preview.gif)
 
 > Interactive Power BI dashboard with 4 pages:
-> Executive Overview, Product Performance, 
-> Regional Analysis, and Discount Analysis.
+> Executive Overview, Product Deep-Dive, 
+> Regional Performance, and Customer Analysis.
 
 ---
 
@@ -234,5 +235,5 @@ This project helped me practice and demonstrate:
 **Your Name**
 
 - GitHub: [toilakhanh123123](https://github.com/toilakhanh123123)
-- LinkedIn: (your link — optional)
-- Email: (your email — optional)
+- LinkedIn: (www.linkedin.com/in/khánh-vũ-027020287)
+- Email: (khanct2004@gmail.com)
