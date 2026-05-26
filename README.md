@@ -232,7 +232,7 @@ This project helped me practice and demonstrate:
 
 ## 11. Author
 
-**Your Name**
+**KhanhVu**
 
 - GitHub: [toilakhanh123123](https://github.com/toilakhanh123123)
 - LinkedIn: (www.linkedin.com/in/khánh-vũ-027020287)
